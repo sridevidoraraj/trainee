@@ -1,6 +1,6 @@
-package com.gcit.dayOne.com.gcit.daytwotask;
+package com.gcit.dayTwo;
 
-public class SubClass extends Inheritance{
+public class SubClass extends Inheritance {
     public void mul(int a, int b){
         System.out.println("multiplication: " +(a*b));
     }

@@ -1,6 +1,6 @@
-package com.gcit.dayOne.com.gcit.daytwotask;
+package com.gcit.dayTwo;
 
-public class subclass2 extends Abstraction{
+public class subclass2 extends Abstraction {
     public void square(){
         System.out.println("square");
     }
