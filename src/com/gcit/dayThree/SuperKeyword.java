@@ -1,6 +1,6 @@
 package com.gcit.dayThree;
 //super keyword parent class
-public class superKeyword {
+public class SuperKeyword {
     int a = 10;
     int b = 20;
     public void display(){

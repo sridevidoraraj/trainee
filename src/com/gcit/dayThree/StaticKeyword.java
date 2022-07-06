@@ -1,13 +1,10 @@
 package com.gcit.dayThree;
-//static method
-public class staticMethod {
+//static keyword,static variable
+public class StaticKeyword {
     String name;
     int rollno;
     static String clgname = "abcd";
-    static void change(){
-        clgname = " efgh";
-    }
-    staticMethod(String name, int rollno){
+    StaticKeyword(String name, int rollno){
         this.name = name;
         this.rollno = rollno;
     }
@@ -15,9 +12,8 @@ public class staticMethod {
         System.out.println(" name :" +name+ " rollno : " +rollno+ " clgname :" +clgname);
     }
     public static void main(String args[]){
-        staticMethod.change();
-        staticMethod s = new staticMethod("aaa",11);
-        staticMethod s1 = new staticMethod("rrr",22);
+        StaticKeyword s = new StaticKeyword("aaa",11);
+        StaticKeyword s1 = new StaticKeyword("rrr",22);
         s.display();
         s1.display();
 

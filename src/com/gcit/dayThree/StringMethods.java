@@ -1,6 +1,6 @@
 package com.gcit.dayThree;
 //string methods
-public class stringMethods {
+public class StringMethods {
     public static void main(String args[]){
         String name = "abcdef";
         char ch = name.charAt(4);
