@@ -1,6 +1,6 @@
 package com.gcit.dayTwo;
 
-public class encapsulation {
+public class Encapsulation {
     private String studentname;
     private int rollno;
     private int age;
@@ -24,7 +24,7 @@ public class encapsulation {
         age = newage;
     }
     public static void main(String args[]){
-    encapsulation en = new encapsulation();
+    Encapsulation en = new Encapsulation();
     en.setname("rr");
     en.setRollno(11);
     en.setAge(22);

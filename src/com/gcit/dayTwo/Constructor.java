@@ -1,26 +1,26 @@
 package com.gcit.dayTwo;
 
-public class constructor {
+public class Constructor {
     //non parameterized constructor
     int n;
     String name;
-    /*constructor(){
+    /*Constructor(){
         System.out.println("constructor called");
 
     }
     public static void main(String args[]){
-        constructor c= new constructor();
+        Constructor c= new Constructor();
         System.out.println(c.n);
         System.out.println(c.name);
     }*/
 
     //parameterized constructor
-    constructor(int n, String name){
+    Constructor(int n, String name){
         this.n = n;
         this.name = name;
     }
     public static void main(String args[]) {
-        constructor c = new constructor(1,"rk");
+        Constructor c = new Constructor(1,"rk");
         System.out.println("no : " + c.n + " name : " +c.name );
 
     }
