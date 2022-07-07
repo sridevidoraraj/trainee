@@ -1,4 +1,4 @@
-package com.gcit.dayOne;
+package com.gcit.dayone;
 //3. Create methods for add, sub, mul, div and call it in main.
 public class Example4 {
 

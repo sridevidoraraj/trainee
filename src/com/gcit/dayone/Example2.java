@@ -1,4 +1,4 @@
-package com.gcit.dayOne;
+package com.gcit.dayone;
 //1. Print all java vairbles. (String, int, float, char, boolean)
 public  class Example2 {
 

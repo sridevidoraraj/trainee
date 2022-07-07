@@ -1,4 +1,4 @@
-package com.gcit.dayOne;
+package com.gcit.dayone;
 //Changing a Value Assigned to a Variable.
 public class Example3 {
 
