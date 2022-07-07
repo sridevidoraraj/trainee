@@ -1,6 +1,4 @@
-package com.gcit.dayFour;
-
-import java.util.Scanner;
+package com.gcit.dayfour;
 
 //7. print only even numbers using do-while loop.
 public class DoWhile {

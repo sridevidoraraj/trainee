@@ -1,4 +1,4 @@
-package com.gcit.dayFour;
+package com.gcit.dayfour;
 //4. Example of Nested for-loop.
 public class NestedForLoop {
     public static void main(String args[]){

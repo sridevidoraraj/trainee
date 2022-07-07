@@ -1,4 +1,4 @@
-package com.gcit.dayFour;
+package com.gcit.dayfour;
 
 import java.util.Scanner;
 //1. Write a Java program to get a number from the user and print whether it is positive or negative or zero.

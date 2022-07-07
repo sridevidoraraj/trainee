@@ -1,6 +1,4 @@
-package com.gcit.dayFour;
-
-import java.util.Scanner;
+package com.gcit.dayfour;
 
 //3. Reverse a String using for loop
 public class ReverseString {

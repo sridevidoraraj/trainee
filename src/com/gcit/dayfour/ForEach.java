@@ -1,4 +1,4 @@
-package com.gcit.dayFour;
+package com.gcit.dayfour;
 //5. Print Array Elements using forEach.
 public class ForEach {
     public static void main(String args[]) {

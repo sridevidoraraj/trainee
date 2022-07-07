@@ -1,4 +1,4 @@
-package com.gcit.dayFour;
+package com.gcit.dayfour;
 //8. switch statement to check size.
 public class SwitchStatement {
     public static void main(String args[]){

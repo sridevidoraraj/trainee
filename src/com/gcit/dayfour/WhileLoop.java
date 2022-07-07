@@ -1,4 +1,4 @@
-package com.gcit.dayFour;
+package com.gcit.dayfour;
 //6. Iterating an array using while loop.
 public class WhileLoop {
     public static void main(String args[]){
