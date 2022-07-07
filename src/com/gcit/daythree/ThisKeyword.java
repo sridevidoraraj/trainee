@@ -1,4 +1,4 @@
-package com.gcit.dayThree;
+package com.gcit.daythree;
 //this keyword
 public class ThisKeyword {
     int a,b;

@@ -1,4 +1,4 @@
-package com.gcit.dayThree;
+package com.gcit.daythree;
 //super keyword parent class
 public class SuperKeyword {
     int a = 10;

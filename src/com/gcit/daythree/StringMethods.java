@@ -1,4 +1,4 @@
-package com.gcit.dayThree;
+package com.gcit.daythree;
 //string methods
 public class StringMethods {
     public static void main(String args[]){

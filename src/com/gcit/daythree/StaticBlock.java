@@ -1,4 +1,4 @@
-package com.gcit.dayThree;
+package com.gcit.daythree;
 //static block
 public class StaticBlock {
     static int a =10;

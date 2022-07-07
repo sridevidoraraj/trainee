@@ -1,4 +1,4 @@
-package com.gcit.dayThree;
+package com.gcit.daythree;
 //super keyword subclass
 public class SuperSubclass extends SuperKeyword {
     public void display(){
