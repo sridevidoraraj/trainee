@@ -1,4 +1,4 @@
-package com.gcit.dayTwo;
+package com.gcit.daytwo;
 
 public class SubClass1 extends Polymorphism2 {
     public void display(){

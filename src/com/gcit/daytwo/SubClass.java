@@ -1,4 +1,4 @@
-package com.gcit.dayTwo;
+package com.gcit.daytwo;
 
 public class SubClass extends Inheritance {
     public void mul(int a, int b){

@@ -1,4 +1,4 @@
-package com.gcit.dayTwo;
+package com.gcit.daytwo;
 
 public class Polymorphism1 {
     //method overloading
