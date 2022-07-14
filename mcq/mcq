@@ -9,7 +9,7 @@ c. JRE
 
 d. JIT
 
-Answer: a
+Answer: a correct
 
 2. Which of these literals can be contained in a float data type variable?
 
@@ -21,7 +21,7 @@ c. -3.4e+038
 
 d. -1.7e+308
 
-Answer: c
+Answer: c answer is (b)
 
 3. What is BigDecimal.ONE?
 
@@ -33,7 +33,7 @@ c. it is a static variable that has a value of 1 on a scale of 0
 
 d. it is a static variable that has a value of 1 on a scale of 10
 
-Answer: c
+Answer: c correct
 
 4. When an expression consists of int, double, long, float, then the entire expression will get promoted into a data type that is:
 
@@ -45,7 +45,7 @@ c. int
 
 d. long
 
-Answer: b
+Answer: b correct
 
 5. Which of the following operators can operate on a boolean variable?
 
@@ -65,7 +65,7 @@ c) A, B & D
 
 d) A, B & C
 
-Answer: d
+Answer: d correct
 
 6. Out of these statements, which ones are incorrect?
 
@@ -77,7 +77,7 @@ c. The addition operator + and the subtraction operator – have an equal preced
 
 d. The division operator / has comparatively higher precedence as compared to a multiplication operator
 
-Answer: d
+Answer: d correct
 
 7. What will be the output of the following Java program?
 
@@ -117,7 +117,7 @@ c. 2 2 3
 
 d. 3 1 6
 
-Answer: d
+Answer: d correct
 
 8. What will be the output of the following Java code snippet?
 
@@ -143,7 +143,7 @@ c) EnumNotDefined Exception
 
 d) It runs successfully
 
-Answer: a
+Answer: a correct
 
 9. When does Overloading not occur?
 
@@ -155,7 +155,7 @@ c. When more than a single method have the same signature, same name, and the sa
 
 d. When more than a single method have the same name, the same number and types of parameters, and yet different signatures
 
-Answer: c
+Answer: c c answer is (d)
 
 10. What is it called when the child object also gets killed when the parent object is killed in the program?
 
@@ -167,7 +167,7 @@ c. Aggregation
 
 d. Composition
 
-Answer: d
+Answer: d correct
 
 11. How does one identify if a compilation unit is an interface or class from a .class file?
 
@@ -179,7 +179,7 @@ c. The class and interface cannot be differentiated
 
 d. The unit type must be used to postfix interface or class name
 
-Answer: b
+Answer: b correct
 
 12. Out of these methods of the String class, which one can be used for testing the strings for equality?
 
@@ -191,7 +191,7 @@ c. equals()
 
 d. equal()
 
-Answer: c
+Answer: c correct
 
 13. What would happen to the thread whenever the garbage collection kicks off?
 
@@ -203,7 +203,7 @@ c. The garbage collection and the thread don’t interfere with each other
 
 d. The thread would be paused while the running of the garbage collection
 
-Answer: d
+Answer: d correct
 
 14. Out of these, which one is the correct way of calling a constructor that has no parameters of the superclass A by the subclass B?
 
@@ -215,7 +215,7 @@ c. super();
 
 d. super.A();
 
-Answer: c
+Answer: c correct
 
 15. Out of these methods of the Object class, which one can clone an object?
 
@@ -227,7 +227,7 @@ c. Object copy()
 
 d. copy()
 
-Answer: b
+Answer: b answer is (a)
 
 16. Out of these packages, which one contains an abstract keyword?
 
@@ -239,7 +239,7 @@ c. java.system
 
 d. java.io
 
-Answer: b
+Answer: b correct
 
 17. Out of these methods, which one can be used for converting all the characters present in a String into an Array of characters?
 
@@ -251,7 +251,7 @@ d. charAt()
 
 d. all of the mentioned
 
-Answer: d
+Answer: d answer is (a)
 
 18. What value is returned by the compareTo() function in case the invoking string happens to be greater than the compared string?
 
@@ -263,7 +263,7 @@ c. zero
 
 d. none of the above
 
-Answer: a
+Answer: a correct
 
 19. Out of these exceptions, which one is thrown by the compareTo() method that is defined in a double wrapper?
 
@@ -275,7 +275,7 @@ c. IOException
 
 d. CastException
 
-Answer: b
+Answer: b correct
 
 20. Where does the String Pool get stored?
 
@@ -287,7 +287,7 @@ c. Java Heap
 
 d. Permanent Generation
 
-Answer: c
+Answer: c correct
 
 21. Out of these data members of the HttpResponse class, which one is used for the storage of the response that is from an http server?
 
@@ -299,7 +299,7 @@ c. statusCode
 
 d. statusResponse
 
-Answer: c
+Answer: c correct
 
 22. Out of these methods, which one makes the raw MIME formatted string?
 
@@ -311,7 +311,7 @@ c. parse()
 
 d. parseString()
 
-Answer: c
+Answer: c correct
 
 23. The remover() method throws which of these exceptions:
 
@@ -323,7 +323,7 @@ c. IOException
 
 d. SystemException
 
-Answer: b
+Answer: b correct
 
 24. Out of the following, which one is a superclass of all the exception type classes?
 
@@ -335,7 +335,7 @@ c. Catchable
 
 d. Throwable
 
-Answer: d
+Answer: d correct
 
 25. What happens when we call two threads that have the same priority to process simultaneously?
 
@@ -347,7 +347,7 @@ c. It depends on the OS
 
 d. There will be no execution of threads
 
-Answer: c
+Answer: c correct
 
 26. Out of these classes, which one is used for reading strings and characters in Java from the console?
 
@@ -359,7 +359,7 @@ c. InputStreamReader
 
 d. BufferedStreamReader
 
-Answer: b
+Answer: b correct
 
 27. Out of these operators, which one can be used to get the run time info about an object?
 
@@ -371,7 +371,7 @@ c. getinfoof
 
 d. instanceof
 
-Answer: d
+Answer: d correct
 
 28. Out of these classes, which one allows a user to define their own formatting pattern for time and dates?
 
@@ -383,7 +383,7 @@ c. SimpleDateFormat
 
 d. DefinedDateFormat
 
-Answer: a
+Answer: a answer is (c)
 
 29. Which method can we use in an applet to output a string?
 
@@ -395,7 +395,7 @@ c. print()
 
 d. display()
 
-Answer: b
+Answer: b correct
 
 30. The public int start() returns what?
 
@@ -407,7 +407,7 @@ c. the start index of the input string
 
 d. None of the above
 
-Answer: a
+Answer: a correct
 
 31. Which one is a superclass of the ContainerEvent class out of the following?
 
@@ -419,7 +419,7 @@ c. ItemEvent
 
 d. WindowEvent
 
-Answer: a
+Answer: a correct
 
 32. _______ is a superclass of all the Adapter classes.
 
@@ -431,7 +431,7 @@ c. InputEvent
 
 d. Event
 
-Answer: b
+Answer: b correct
 
 33. Which method in Java generates boolean random values?
 
@@ -443,7 +443,7 @@ c. generateBoolean()
 
 d. previousBoolean()
 
-Answer: b
+Answer: b correct
 
 34. Which class produces objects with respect to their geographical locations?
 
@@ -455,7 +455,7 @@ c. Locale
 
 d. TimeZone
 
-Answer: c
+Answer: c correct
 
 35. Which method is used for notifying the observer about the change in the observed object?
 
@@ -467,7 +467,7 @@ c. observed()
 
 d. check()
 
-Answer: a
+Answer: a answer is (b)
 
 36. Which package is used to remotely invoke a method?
 
@@ -479,7 +479,7 @@ c. java.applet
 
 d. java.util
 
-Answer: b
+Answer: b correct
 
 37. What are the uses of generics?
 
@@ -491,7 +491,7 @@ c. The generics add stability to a code. They do so by making more bugs detectab
 
 d. The generics add stability to a code. They do so by making more bugs detectable at the compile time
 
-Answer: d
+Answer: d correct
 
 38. Which mechanism helps in the process of naming as well as visibility control of the classes and their content?
 
@@ -503,7 +503,7 @@ c. Object
 
 d. None of the above
 
-Answer: a
+Answer: a correct
 
 39. The configuration is stored in which of the file database tables:
 
@@ -515,7 +515,7 @@ c. .hbm
 
 d. .dbm
 
-Answer: c
+Answer: c correct
 
 40. The primary use of Files.lines(Path path) is that it:
 
@@ -527,7 +527,7 @@ c. counts the total number of lines for the files at the specified path
 
 d. reads the filenames at the specified path
 
-Answer: c
+Answer: c answer is (a)
 
 41. Which keywords for the purpose of upper bound a wildcard?
 
@@ -539,7 +539,7 @@ c. implements
 
 d. extends
 
-Answer: d
+Answer: d correct
 
 42. Out of the following statements, which one is not true about the Java beans?
 
@@ -551,7 +551,7 @@ c. It provides getter and setter methods for its properties
 
 d. It provides us with no argument constructor
 
-Answer: b , c
+Answer: b , c answer is (a)
 
 43. What does the abbreviation MVC pattern stand for?
 
@@ -563,7 +563,7 @@ c. Mock View Controller
 
 d. Model View Control
 
-Answer: d
+Answer: d correct
 
 44. The advantage of using the PreparedStatement in Java is:
 
@@ -575,7 +575,7 @@ c. Encourages SQL injection
 
 d. Slow performance
 
-Answer: b
+Answer: b correct
 
 45. How does one move from some desired step to another one?
 
@@ -587,7 +587,7 @@ c. System.out.println
 
 d. breakpoints
 
-Answer: d
+Answer: d correct
 
 46. What would happen if the IP Address of the host can’t be determined?
 
@@ -599,7 +599,7 @@ c) Temporary IP Address will be assigned
 
 d) UnknownHostException is thrown
 
-Answer: d
+Answer: d correct
 
 47. The storage capacity of a single cookie is:
 
@@ -611,7 +611,7 @@ c) 2048 bytes
 
 d) 2048 MegaBytes
 
-Answer: b
+Answer: b correct
 
 48. Which action variable helps in including a file in the JSP?
 
@@ -623,7 +623,7 @@ c) jsp:getProperty
 
 d) jsp:setProperty
 
-Answer: b
+Answer: b correct
 
 49. ______ file defines dependency in maven.
 
@@ -635,7 +635,7 @@ c) version.xml
 
 d) pom.xml
 
-Answer: d
+Answer: d correct
 
 50. The main difference between AutoCloseable and Closeable is that:
 
@@ -647,4 +647,4 @@ c) AutoCloseable throws Exception; Closeable throws IOException
 
 d) AutoCloseable is a concrete class and Closeable is an interface
 
-Answer: c
+Answer: c correct
