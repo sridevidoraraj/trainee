@@ -1,0 +1,254 @@
+Q1. Collection stores only ?
+
+A. object type data
+B. primitive type data
+C. string type data
+D. All of the above
+
+Answer-
+
+Q2. Which type of exception is thrown if you try to add an element to an already full Collection ?
+
+A. IllegalArgumentException
+B. IllegalStateException
+C. ClassCastException
+D. NullPointerException
+
+Answer-
+
+Q3. Which interface does NavigableSet implements ?
+
+A. Set
+B. List
+C. Collection
+D. SortedSet
+
+Answer-
+
+Q4. What does get(int index) method define by List interface do ?
+
+A. returns an object stored at the specified index
+B. stores an object at the specified index
+C. returns a list containing elements between specified index and end in the collection.
+D. none of the above.
+
+Answer-
+
+Q5. Which of the following interface guarantees that no duplicates elements are stored and all elements are accessed in natural order ?
+
+A. java.util.List
+B. java.util.Set
+C. java.util.Deque
+D. java.util.Map
+
+Answer-
+
+Q6. Which of the following statement is not true about ArrayList class ?
+
+A. ArrayList class extends AbstractList class and implements the List interface
+B. ArrayList supports dynamic array that can grow as needed
+C. ArrayLists are synchronized.
+D. It can contain Duplicate elements and maintains the insertion order
+
+Answer-
+
+Q7. Which of the following statement is true about TreeSet class ?
+
+A. TreeSet extends AbstractList class and implements the List interface.
+B. Access and retrieval times are quite slow.
+C. TreeSet stores elements sorted ascending order
+D. Uses a LinkedList structure to store elements
+
+Answer-
+
+Q8. Which class does java.util.Properties extends ?
+
+A. java.util.HashMap
+B. java.util.Hashtable
+C. java.util.LinkedHashMap
+D. java.util.LinkedList
+
+Answer-
+
+Q9. Which interface is used to traverse a list in both forward and backward direction ?
+
+A. Iterator interface
+B. ListIterator interface
+C. Enumeration interface
+D. None of the above
+
+Answer-
+
+Q10. Which interface provides the capability to store objects using a key-value pair ?
+
+A. java.util.Map
+B. java.util.Set
+C. java.util.List
+D. java.util.Collection
+
+Answer-
+
+Q11. Which of the following method is used to return a Set that contains the entries in a map ?
+
+
+A. keyset()
+B. getSet()
+C. entrySet()
+D. getAll()
+
+Answer-
+
+Q12. Which of the following statement is not correct about HashMap class ?
+
+A. HashMap class extends AbstractMap and implements Map interface.
+B. HashMap class is not synchronized.
+C. HashMap uses a hashtable to store the map.
+D. HashMap maintain order of its element.
+
+Answer-
+
+Q13. Which of the following class provide the facility to specify default value that is used when no value is associated with a certain key ?
+
+A. java.util.HashMap
+B. java.util.Hashtable
+C. java.util.Properties
+D. java.util.LinkedHashMap
+
+Answer-
+
+Q14. What is the ArrayList nums if it is initially [5, 3, 1] and the following code is executed?
+nums.add(6)
+nums.add(0, 4)
+nums.remove(1);
+
+A. [4, 3, 1, 6]
+B. [5, 3, 1, 6]
+C. [4, 3, 6]
+D. [4, 5, 3, 6]
+
+Answer-
+
+Q15. What index value is used to locate the last element in the nums ArrayList?
+
+A. nums.size()-1
+B. nums.length()-1
+C. nums.size()
+D. nums.length
+
+Answer-
+
+Q16. Given the ArrayList nums with the values [3, 7, 6, 0], what code below is the proper way to change the 7 to be a 5?
+
+A. nums.set(1, 5)
+B. nums.set(7, 5)
+C. nums.set(5, 2)
+D. nums[2] = 5
+
+Answer-
+
+Q17. Given the nums ArrayList with the values [5, 4, 3, 2], what statement below removes the value 3 from the list?
+
+A. nums.remove(2)
+B. nums.remove(3)
+C. nums.get(2) = null
+D. nums.remove(1)
+
+Answer-
+
+Q18. What will print when the following code executes?
+
+     ArrayList<Integer> list = new ArrayList<Integer>();
+     list.add(7);
+     list.add(8);
+     list.add(9);
+     System.out.println(list.remove(0));
+
+A. 7
+B. 8
+C. 9
+D. 0
+
+Answer-
+
+Q19. Which statement is the correct declaration and initialization of an ArrayList of String values?
+
+A. ArrayList<String> name;
+   name = new ArrayList<String>();
+
+B. ArrayList name;
+   name = new ArrayList<String>();
+
+C. ArrayList<String> name;
+   name = ArrayList<String>();
+
+D. String<ArrayList> name;
+   name = new String<ArrayList>();
+
+Answer-
+
+Q20. A linked list contains a list pointer variable _____that stores the address of the first node of the list.
+
+A. Head
+B. NULL
+C. NEXT
+D. LAST
+
+Answer-
+
+Q21. How many fields does the node of a singly linked list has?
+
+A. 1
+B. 2
+C. 3
+D. 4
+
+Answer-
+
+Q22. Java HashSet class uses a ------------------- for storage
+
+A. list
+B. hash-table
+C. linked-list
+D. Set
+
+Answer-
+
+Q23. The HashSet class extends ---------------- class which implements --------------- interface
+
+A. Set , AbstractSet
+B. LinkedList, Collection
+C. AbstractSet , Set
+
+Answer-
+
+Q24. This method is used to return an iterator over the elements in this set
+
+A. isiterator()
+B. iterator()
+C. iterators()
+D. iterates()
+
+Answer-
+
+Q25. What will be the output of the following Java code snippet?
+
+     public class Demo
+     {
+       public static void main(String[] args)
+       {
+     		Map<Integer, Object> sampleMap = new TreeMap<Integer, Object>();
+     		sampleMap.put(1, null);
+     		sampleMap.put(5, null);
+     		sampleMap.put(3, null);
+     		sampleMap.put(2, null);
+     		sampleMap.put(4, null);
+
+            System.out.println(sampleMap);
+        }
+     }
+a) {1=null, 2=null, 3=null, 4=null, 5=null}
+b) {5=null}
+c) Exception is thrown
+d) {1=null, 5=null, 3=null, 2=null, 4=null}
+
+Answer-
