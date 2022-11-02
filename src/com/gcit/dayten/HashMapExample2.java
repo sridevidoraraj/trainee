@@ -7,6 +7,7 @@ import java.util.HashMap;
 public class HashMapExample2 {
 
     public static void main(String args[]){
+
         HashMap<Integer,String> hm = new HashMap<>();
         hm.put(1,"one");
         hm.put(2,"two");

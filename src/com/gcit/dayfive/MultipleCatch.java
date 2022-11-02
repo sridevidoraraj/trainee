@@ -4,6 +4,7 @@ public class MultipleCatch
 {
     public static void main(String[] args)
     {
+
         String s = "java practice";
         int a[] = {0, 1, 2, 3, 4, 5};
         try

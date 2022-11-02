@@ -15,6 +15,7 @@ public class CustomException extends Exception {
             System.out.println(e.getMessage());
             System.out.println(e.getCause());
             throw new CustomException("Chained Exception");
+
         }
     }
 }

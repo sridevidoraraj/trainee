@@ -11,6 +11,7 @@ public class ArrayListExample3 {
     public static void main(String args[]){
 
         List<String> string = new ArrayList<>();
+
         string.add("division");
         string.add("addition");
         string.add("subtraction");

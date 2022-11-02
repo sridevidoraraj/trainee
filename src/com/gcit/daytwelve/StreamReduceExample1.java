@@ -11,4 +11,5 @@ public class StreamReduceExample1 {
 
         System.out.println(result);
     }
+
 }

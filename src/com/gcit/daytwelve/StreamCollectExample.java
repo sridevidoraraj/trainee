@@ -13,5 +13,6 @@ public class StreamCollectExample {
                 .collect(Collectors.toMap(Function.identity(),s -> (int) s.chars().distinct().count()));
 
         System.out.println(map);
+
     }
 }

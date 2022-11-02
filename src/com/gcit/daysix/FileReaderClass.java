@@ -5,6 +5,7 @@ import java.io.IOException;
 
 //File Reader class
 public class FileReaderClass {
+
     public static void main(String [] args) throws IOException
     {
         try

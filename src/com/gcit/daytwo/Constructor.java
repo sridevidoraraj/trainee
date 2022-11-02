@@ -1,6 +1,7 @@
 package com.gcit.daytwo;
 
 public class Constructor {
+
     //non parameterized constructor
     int n;
     String name;

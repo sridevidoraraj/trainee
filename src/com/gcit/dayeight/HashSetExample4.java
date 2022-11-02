@@ -10,6 +10,7 @@ public class HashSetExample4 {
 
     public static void main(String args[]){
         ArrayList<Integer> al = new ArrayList<>();
+
         al.add(100);
         al.add(200);
         al.add(300);

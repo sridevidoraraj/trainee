@@ -8,6 +8,7 @@ public class StreamForEachExample {
 
     public static void main(String args[]){
 
+
         List<String> list = new ArrayList<>( Arrays.asList("learn" , "java" , "practice" , "coding"));
         list.stream().filter(s->s.startsWith("j")).forEach(System.out::println);
         System.out.println("********");

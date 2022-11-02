@@ -2,6 +2,7 @@ package com.gcit.daysix;
 //Continue statement in do-while loop
 
 public class ContinueUsingDoWhileLoop {
+
     public static void main(String[] args)
     {
         int x = 1;

@@ -9,6 +9,7 @@ public class LinkedListExample3 {
     public static void main(String args[]){
 
         LinkedList<String> ll=new LinkedList<String>();
+
         ll.add("11");
         ll.add("22");
         ll.add("33");

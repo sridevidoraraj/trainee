@@ -12,5 +12,6 @@ public class StreamSortExample1 {
         myList.stream()
                 .sorted()
                 .forEach(System.out::println);
+
     }
 }

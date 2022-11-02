@@ -9,6 +9,7 @@ public class ForLoop {
         for(int i = 1; i<=n; i++){
             System.out.println(i+ " ");
             sum = sum+i;
+
         }
         System.out.println("sum of " +n+ " numbers : " +sum );
     }

@@ -5,6 +5,7 @@ import java.io.IOException;
 //FileWriter class
 
 public class FileWriterClass {
+
     public static void main(String[] args) throws IOException
     {
         FileWriter fw = new FileWriter("D:\\myfile.txt");

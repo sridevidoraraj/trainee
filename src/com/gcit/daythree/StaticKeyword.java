@@ -1,6 +1,7 @@
 package com.gcit.daythree;
 //static keyword,static variable
 public class StaticKeyword {
+
     String name;
     int rollno;
     static String clgname = "abcd";

@@ -15,5 +15,6 @@ public class StreamMapExample {
         List<Integer> Square = list.stream().map(x->x*x).collect(Collectors.toList());
 
         System.out.println(Square);
+
     }
 }

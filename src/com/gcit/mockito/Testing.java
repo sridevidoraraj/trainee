@@ -11,6 +11,7 @@ import static org.mockito.Mockito.*;
 
 
 @RunWith(MockitoJUnitRunner.class)
+
 public class Testing {
     @InjectMocks
     MathApplication mathApplication = new MathApplication();

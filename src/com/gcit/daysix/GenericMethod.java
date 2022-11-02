@@ -4,6 +4,7 @@ package com.gcit.daysix;
     class Myclass1
 {
     public static <T> void display(T[] array)
+
     {
         for(T t : array)
         {
@@ -13,6 +14,7 @@ package com.gcit.daysix;
     }
 }
     public class GenericMethod
+
     {
         public static void main(String[] args)
     {

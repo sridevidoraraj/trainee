@@ -3,6 +3,7 @@ package com.gcit.daysix;
 //Finalize Method
 
 public class FinalizeMethod {
+
     public static void main(String[] args)
     {
         FinalizeMethod obj = new FinalizeMethod();

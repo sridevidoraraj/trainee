@@ -14,6 +14,7 @@ public class ThrowsKeyword {
         }
         catch (IOException e) {
             System.out.println("Caught an exception: \n" +e);
+
         }
     }
 }

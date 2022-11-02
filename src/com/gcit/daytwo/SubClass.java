@@ -1,6 +1,7 @@
 package com.gcit.daytwo;
 
 public class SubClass extends Inheritance {
+
     public void mul(int a, int b){
         System.out.println("multiplication: " +(a*b));
     }

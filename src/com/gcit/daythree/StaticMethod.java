@@ -1,6 +1,7 @@
 package com.gcit.daythree;
 //static method
 public class StaticMethod {
+
     String name;
     int rollno;
     static String clgname = "abcd";

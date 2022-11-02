@@ -15,5 +15,6 @@ public class StreamMapExample1 {
         System.out.println("The stream after applying "
                 + "the function is : ");
         System.out.println(answer);
+
     }
 }

@@ -16,6 +16,7 @@ public class ExceptionPropagation {
            }
            }
    public static void main(String args[]) {
+
         ExceptionPropagation obj = new ExceptionPropagation();
         obj.method3();
         }

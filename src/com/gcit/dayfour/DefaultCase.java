@@ -2,6 +2,7 @@ package com.gcit.dayfour;
 //9. default case in Java switch-case
 public class DefaultCase {
     public static void main(String args[]){
+
         char grade = 'E';
         switch(grade){
             case 'A':
