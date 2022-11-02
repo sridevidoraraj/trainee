@@ -8,6 +8,7 @@ import java.util.stream.Stream;
 public class StreamReduceExample {
 
     public static void main(String args[]){
+
         List<String> stringList = new ArrayList<>();
 
         stringList.add("one");

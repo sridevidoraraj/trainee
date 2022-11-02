@@ -7,6 +7,7 @@ import java.util.HashSet;
 public class HashSetExample3 {
     public static void main(String args[]){
         HashSet<Integer> hs = new HashSet<>();
+
         hs.add(12);
         hs.add(21);
         hs.add(31);

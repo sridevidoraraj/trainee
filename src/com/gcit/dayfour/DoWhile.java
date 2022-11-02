@@ -2,6 +2,7 @@ package com.gcit.dayfour;
 
 //7. print only even numbers using do-while loop.
 public class DoWhile {
+
     /*int i=5;
         do{
         System.out.println(i);

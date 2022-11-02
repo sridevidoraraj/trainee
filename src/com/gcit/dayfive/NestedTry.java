@@ -4,6 +4,7 @@ public class NestedTry {
 
         public static void main(String[] args)
         {
+
             String str = "java practice";
             int x[ ] = {0, 1, 2, 3, 4};
             try // Outer try block

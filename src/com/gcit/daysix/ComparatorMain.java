@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.Iterator;
 
 public class ComparatorMain {
+
     public static void main(String args[]){
     ArrayList al=new ArrayList();
     al.add(new ComparatorClass1(101,"Vijay",23));

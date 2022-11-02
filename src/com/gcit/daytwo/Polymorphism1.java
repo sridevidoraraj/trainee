@@ -1,6 +1,7 @@
 package com.gcit.daytwo;
 
 public class Polymorphism1 {
+
     //method overloading
     protected void symbol(){
         for(int i = 0 ; i<=10; i++) {

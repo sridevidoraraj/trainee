@@ -8,6 +8,7 @@ public class HashMapExample1 {
 
     public static void main(String args[]){
 
+
         HashMap<Integer, String> hm = new HashMap<>();
         hm.put(1,"java");
         hm.put(2,"c");

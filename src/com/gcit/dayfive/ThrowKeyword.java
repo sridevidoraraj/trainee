@@ -13,6 +13,7 @@ public class ThrowKeyword {
         }
         catch(ArithmeticException ae){
             System.out.println("Exception caught: \n" +ae);
+
         }
     }
 }

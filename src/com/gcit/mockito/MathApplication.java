@@ -22,4 +22,5 @@ public class MathApplication {
     public double divide(double input1, double input2){
         return calcService.divide(input1, input2);
     }
+
 }

@@ -1,6 +1,7 @@
 package com.gcit.daysix;
 //break statement inside while loop
 public class BreakUsingWhileLoop {
+
     public static void main(String[] args)
     {
         int i = 1;

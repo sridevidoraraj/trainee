@@ -18,5 +18,6 @@ public class FinallyBlock {
             System.out.println("finally block must be executed");
         }
         System.out.println("Hello Java");
+
     }
 }

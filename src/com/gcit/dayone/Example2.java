@@ -3,6 +3,7 @@ package com.gcit.dayone;
 public  class Example2 {
 
     public static void main(String args[]){
+
         String s ="example";
         int i = 2;
         float f = 123.4f;

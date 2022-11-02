@@ -8,6 +8,7 @@ import java.util.Iterator;
 public class HashSetExample1 {
     public static void main(String args[]){
         HashSet<String> hs = new HashSet<>();
+
         hs.add("addition");
         hs.add("subtraction");
         hs.add("multiplication");

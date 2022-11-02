@@ -1,6 +1,7 @@
 package com.gcit.daytwo;
 
 public class SubClass3 implements Area {
+
     @Override
     public void square(int side) {
         System.out.println("area of square : " +(4*side));

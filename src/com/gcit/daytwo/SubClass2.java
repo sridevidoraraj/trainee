@@ -1,6 +1,7 @@
 package com.gcit.daytwo;
 
 public class SubClass2 extends Abstraction {
+
     public void square(){
         System.out.println("square");
     }

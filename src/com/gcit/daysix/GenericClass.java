@@ -8,6 +8,7 @@ package com.gcit.daysix;
     {
         this.obj = obj;
     }
+
     T getObj()
     {
         return obj;
@@ -17,6 +18,7 @@ package com.gcit.daysix;
 {
         public static void main(String[] args)
     {
+
         Myclass<Integer> obj1 = new Myclass<Integer>(50);
         System.out.println("Value stored: " +obj1.getObj());
         Myclass<Float> obj2 = new Myclass<Float>(50.20f);

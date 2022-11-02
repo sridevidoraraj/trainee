@@ -9,6 +9,7 @@ public class ArrayListExample1 {
 
     public static void main(String args[]){
         List<String> animal = new ArrayList<>();
+
         animal.add("lion");
         animal.add("tiger");
         animal.add("elephant");

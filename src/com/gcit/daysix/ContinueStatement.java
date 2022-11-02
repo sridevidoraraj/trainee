@@ -2,6 +2,7 @@ package com.gcit.daysix;
 //continue statement
 public class ContinueStatement {
     public static void main(String[] args) {
+
         for (int i = 10; i >= 1; i--) {
             if (i > 5)
                 continue;
